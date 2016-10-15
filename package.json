@@ -1,0 +1,24 @@
+{
+  "name": "fis3-postprocessor-less-autoprefix",
+  "version": "0.0.1",
+  "description": "fis plugin for less autoprefix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cupools/fis3-postprocessor-px2rem.git"
+  },
+  "keywords": [
+    "fis3",
+    "rem"
+  ],
+  "author": "Allen Lyu<huashiyiqike@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.7.1",
+    "less-plugin-autoprefix": "^1.5.1",
+    "deasync": "^0.1.8"
+  }
+}
