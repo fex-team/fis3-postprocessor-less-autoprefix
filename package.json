@@ -8,11 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cupools/fis3-postprocessor-px2rem.git"
+    "url": "https://github.com/fex-team/fis3-postprocessor-less-autoprefix"
   },
   "keywords": [
     "fis3",
-    "rem"
+    "less",
+    "autoprefix"
   ],
   "author": "Allen Lyu<huashiyiqike@outlook.com>",
   "license": "MIT",
